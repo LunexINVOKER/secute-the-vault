@@ -1,7 +1,7 @@
 let code1;
 code1 = 7 + 3;
 
-let code2 = 10 + 14 + 16;
+let code2 = 60 - 40 / 2;
 
 let code3 = 5%2 + 38;
 
